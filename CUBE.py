@@ -3,6 +3,7 @@ tur = turtle.Turtle()
 
 tur.color('green')
 tur.shape('triangle')
+tur.speed(1)
 
 
 
@@ -40,7 +41,3 @@ for i in range(1):
     tur.left(135)
     tur.forward(200)
     
-
-    
-    
-    tur.speed(1000000)
